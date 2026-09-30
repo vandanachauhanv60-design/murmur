@@ -1,0 +1,9 @@
+numpy
+sounddevice
+pynput
+pyperclip
+pystray
+Pillow
+faster-whisper
+anthropic
+requests
